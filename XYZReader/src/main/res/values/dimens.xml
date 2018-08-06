@@ -8,7 +8,7 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="app_bar_elevation">4dp</dimen>
-    <dimen name="cardview_elevation">8dp</dimen>
+    <dimen name="cardview_elevation">1dp</dimen>
     <dimen name="image_btn_elevation">4dp</dimen>
 
 </resources>
